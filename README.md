@@ -12,10 +12,10 @@ assumptions:
 4. The processing times for filling, capping, labeling, sealing, and carton packing are 6.5, 5, 8, 5, and 6
 seconds, respectively.
 
-a. Develop a model for the packaging line and simulate it for a 100,000 seconds period.
+a. Develop a model for the packaging line and simulate it for a 100,000 seconds period. <br>
 b. Estimate the following statistics:
-_ Throughput
-_ Average inventory levels in buffers
-_ Downtime probabilities
-_ Blocking probabilities at bottleneck workstations
-_ Average system flow times (also called manufacturing lead times)
+1. Throughput
+2. Average inventory levels in buffers
+3. Downtime probabilities
+4. Blocking probabilities at bottleneck workstations
+5. Average system flow times (also called manufacturing lead times)
